@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório de transição de carreira. Aqui organizo todo o p
 | :--- | :--- | :--- |
 | 🕵️ **Simulando Entrevista** | Perguntas e Respostas da Simulação | [Acessar](IA_Pergunta_Desenvolvendo_Simulador_Entrevista.md) |
 | 🛠️ **Roteiro de Carreira** | Plano de Estudos de 120 dias | [Acessar](Criando_meu_Roteiro_Carreira.md) |
-| 🧠 **Mapa de Skills** | Habilidades Técnicas Essenciais | [Acessar](Mapa_Skills%20(Essenciais).md) |
+| 🧠 **Mapa de Skills** | Habilidades Técnicas Essenciais | [Acessar](Mapa_Skills-Essenciais.md) |
 
 ---
 
