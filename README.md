@@ -8,9 +8,9 @@ Bem-vindo ao meu repositório de transição de carreira. Aqui organizo todo o p
 
 | Documento | Descrição | Link |
 | :--- | :--- | :--- |
-| 🕵️ **Simulando Entrevista** | Perguntas e Respostas da Simulação | [Acessar](IA_Pergunta_Desenvolvendo_Simulador_Entrevista.md) |
-| 🛠️ **Roteiro de Carreira** | Plano de Estudos de 120 dias | [Acessar](Criando_meu_Roteiro_Carreira.md) |
-| 🧠 **Mapa de Skills** | Habilidades Técnicas Essenciais | [Acessar](Mapa_Skills-Essenciais.md) |
+| 🕵️ **Simulando Entrevista** | Perguntas e Respostas | [Acessar](CAIXA%20Inteligência%20Artificial%20na%20Prática/IA_Pergunta_Desenvolvendo_Simulador_Entrevista.md) |
+| 🛠️ **Roteiro de Carreira** | Plano de 120 dias | [Acessar](CAIXA%20Inteligência%20Artificial%20na%20Prática/Criando_meu_Roteiro_Carreira.md) |
+| 🧠 **Mapa de Skills** | Habilidades Essenciais | [Acessar](CAIXA%20Inteligência%20Artificial%20na%20Prática/Mapa_Skills_(Essenciais).md) |
 
 ---
 
